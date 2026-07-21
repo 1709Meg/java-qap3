@@ -1,6 +1,6 @@
 package problem2;
 
-public class MovablePointDemo {
+public class Demo {
     public static void main(String[] args) {
         Point p1 = new Point();
         System.out.println("Default Point: " + p1);
